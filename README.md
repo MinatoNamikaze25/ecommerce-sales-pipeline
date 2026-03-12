@@ -29,7 +29,7 @@ Kaggle CSV
 
 ```
 ecommerce-sales-pipeline/
-├── notebooks/
+├── notebook/
 │   ├── 01_bronze_layer.ipynb       ← Raw data ingestion
 │   ├── 02_silver_layer.ipynb       ← Cleaning & transformation
 │   └── 03_gold_layer.ipynb         ← Aggregations & gold tables
